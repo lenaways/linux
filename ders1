@@ -1,0 +1,7 @@
+#!/bin/bash
+#Bu derste kisaca GUI/CLI farkina deginilecek
+date
+
+echo Arayuz, kullanıcının bir sistemle etkileşime geçmesini sağlayan yazılım veya donanım birimlerini olusturur.O zaman yazılım software ve donanım hardware ne?
+
+echo Hardware, bir bilgisayarda fiziksel olarak gözümüzle görebildiğimiz her türlü elektronik cihazlar diyebiliriz software ise bu cihazlarin calisabilmesi icin arka tarafta gerceklestirilen yazilimlardir.
