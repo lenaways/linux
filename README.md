@@ -1,2 +1,1 @@
-#l inux hakkinda bildiklerim
-Linux Derslerime Giris Derslerime Hosgeldiniz 
+Linux Derslerime Giris Derslerime Hosgeldiniz.
