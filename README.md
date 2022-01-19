@@ -1,1 +1,1 @@
-Linux Derslerime Giris Derslerime Hosgeldiniz.
+Linux Hakkinda Bildiklerim
